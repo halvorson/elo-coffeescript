@@ -1,0 +1,19 @@
+{
+  "name": "elo-coffeescript",
+  "version": "0.1.0",
+  "private": true,
+  "main": "lib/elo.js",
+  "dependencies": {
+    "coffee-script": "~1.6.0",
+    "underscore": "~1.4.1",
+    "should": "~1.2.2"
+  },
+  "devDependencies": {
+    "node-dev": "~0.2.8",
+    "mocha": "~1.8.1",
+    "should": "~1.2.0"
+  },
+  "scripts": {
+    "test": "cake test"
+  }
+}
